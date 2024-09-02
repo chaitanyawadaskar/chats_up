@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChatsUp</string>
+    <string name="verify">Verify your phone number</string>
+    <string name="decs">Chat`s Up will send an SMS message to verify your phone number</string>
+    <string name="phoneverify">Enter the OTP code to verify your phone number</string>
+</resources>
